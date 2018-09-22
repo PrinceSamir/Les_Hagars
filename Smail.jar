@@ -3,6 +3,6 @@ package com.std.sam;
 	public class Smail {
 
     public static void Smail(String[] args) {
-        System.out.println("Smail est une flipette portant une slip sur la tête. Lorsqu'il se retourne nous pouvons apercevoir une tache bruin à l'arrière du slip");
+        System.out.println("Smail est une flipette portant une slip sur la tête. Lorsqu'il se retourne nous pouvons apercevoir une tache bruin à l'arrière du slip. Rass d'ampoule");
     }
 }
